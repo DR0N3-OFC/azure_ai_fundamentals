@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "74b3d47a-a318-4116-852f-b67fad5ee4b4",
+    "content-length": "174",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+        "text": "cartoon of an egg with a yellow shirt and a gun",
+        "confidence": 0.7131413221359253
+    },
+    "metadata": {
+        "width": 881,
+        "height": 907
+    }
+}
