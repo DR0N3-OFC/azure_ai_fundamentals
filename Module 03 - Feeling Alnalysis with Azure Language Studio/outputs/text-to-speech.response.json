@@ -1,0 +1,4537 @@
+[
+    {
+        "Id": "66daba04d6ef4526bddd03eb8940b9e0",
+        "RecognitionStatus": 0,
+        "Offset": 2700000,
+        "Duration": 129600000,
+        "Channel": 0,
+        "DisplayText": "That's right. We found this citizen on a street here in Moringa. Do you remember him, Daniel or Evaldo? He lives here in Moringa. We found him on the street. I even gave him five rays. Is that right, Daniel? Feed him.",
+        "NBest": [
+            {
+                "Confidence": 0.8875219,
+                "Lexical": "that's right we found this citizen on a street here in moringa do you remember him daniel or evaldo he lives here in moringa we found him on the street i even gave him five rays is that right daniel feed him",
+                "ITN": "that's right we found this citizen on a street here in moringa do you remember him daniel or evaldo he lives here in moringa we found him on the street i even gave him five rays is that right daniel feed him",
+                "MaskedITN": "that's right we found this citizen on a street here in moringa do you remember him daniel or evaldo he lives here in moringa we found him on the street i even gave him five rays is that right daniel feed him",
+                "Display": "That's right. We found this citizen on a street here in Moringa. Do you remember him, Daniel or Evaldo? He lives here in Moringa. We found him on the street. I even gave him five rays. Is that right, Daniel? Feed him.",
+                "Words": [
+                    {
+                        "Word": "that's",
+                        "Offset": 2700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 5500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "we",
+                        "Offset": 8300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "found",
+                        "Offset": 9500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 12700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "citizen",
+                        "Offset": 15100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 19100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 20300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "street",
+                        "Offset": 20700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "here",
+                        "Offset": 24300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 26300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "moringa",
+                        "Offset": 27100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 33100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 34300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "remember",
+                        "Offset": 35500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 39500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 46700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "or",
+                        "Offset": 52300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "evaldo",
+                        "Offset": 53900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "he",
+                        "Offset": 59100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "lives",
+                        "Offset": 60700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "here",
+                        "Offset": 65100000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 71500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "moringa",
+                        "Offset": 72300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "we",
+                        "Offset": 76700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "found",
+                        "Offset": 79100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 82300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 83500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 84300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "street",
+                        "Offset": 85500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 95100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "even",
+                        "Offset": 95900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "gave",
+                        "Offset": 98700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 100700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 101900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "rays",
+                        "Offset": 105500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 112300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 114300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 115900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 118700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "feed",
+                        "Offset": 125500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 129100000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8558036,
+                "Lexical": "that's right we found this citizen on a street here in moringa do you remember him daniel or rivaldo de silva he lives here in moringa we found him on the street i even gave him five rays is that right daniel feed him",
+                "ITN": "that's right we found this citizen on a street here in moringa do you remember him daniel or rivaldo de silva he lives here in moringa we found him on the street i even gave him five rays is that right daniel feed him",
+                "MaskedITN": "that's right we found this citizen on a street here in moringa do you remember him daniel or rivaldo de silva he lives here in moringa we found him on the street i even gave him five rays is that right daniel feed him",
+                "Display": "that's right we found this citizen on a street here in moringa do you remember him daniel or rivaldo de silva he lives here in moringa we found him on the street i even gave him five rays is that right daniel feed him",
+                "Words": [
+                    {
+                        "Word": "that's",
+                        "Offset": 2700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 5500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "we",
+                        "Offset": 8300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "found",
+                        "Offset": 9500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 12700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "citizen",
+                        "Offset": 15100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 19100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 20300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "street",
+                        "Offset": 20700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "here",
+                        "Offset": 24300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 26300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "moringa",
+                        "Offset": 27100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 33100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 34300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "remember",
+                        "Offset": 35500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 39500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 46700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "or",
+                        "Offset": 52300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "rivaldo",
+                        "Offset": 53500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 58700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "silva",
+                        "Offset": 59500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "he",
+                        "Offset": 65100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "lives",
+                        "Offset": 66700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "here",
+                        "Offset": 69500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 71500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "moringa",
+                        "Offset": 72300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "we",
+                        "Offset": 76700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "found",
+                        "Offset": 79100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 82300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 83500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 84300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "street",
+                        "Offset": 85500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 95100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "even",
+                        "Offset": 95900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "gave",
+                        "Offset": 98700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 100700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 101900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "rays",
+                        "Offset": 105500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 112300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 114300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 115900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 118700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "feed",
+                        "Offset": 125500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 129100000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.88071966,
+                "Lexical": "that's right we found this citizen on a street here in moringa do you remember him daniel or evaldo he lives here in moringa we found him on the street i even gave him five reyes is that right daniel feed him",
+                "ITN": "that's right we found this citizen on a street here in moringa do you remember him daniel or evaldo he lives here in moringa we found him on the street i even gave him five reyes is that right daniel feed him",
+                "MaskedITN": "that's right we found this citizen on a street here in moringa do you remember him daniel or evaldo he lives here in moringa we found him on the street i even gave him five reyes is that right daniel feed him",
+                "Display": "that's right we found this citizen on a street here in moringa do you remember him daniel or evaldo he lives here in moringa we found him on the street i even gave him five reyes is that right daniel feed him",
+                "Words": [
+                    {
+                        "Word": "that's",
+                        "Offset": 2700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 5500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "we",
+                        "Offset": 8300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "found",
+                        "Offset": 9500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 12700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "citizen",
+                        "Offset": 15100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 19100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 20300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "street",
+                        "Offset": 20700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "here",
+                        "Offset": 24300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 26300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "moringa",
+                        "Offset": 27100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 33100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 34300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "remember",
+                        "Offset": 35500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 39500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 46700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "or",
+                        "Offset": 52300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "evaldo",
+                        "Offset": 53900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "he",
+                        "Offset": 59100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "lives",
+                        "Offset": 60700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "here",
+                        "Offset": 65100000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 71500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "moringa",
+                        "Offset": 72300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "we",
+                        "Offset": 76700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "found",
+                        "Offset": 79100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 82300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 83500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 84300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "street",
+                        "Offset": 85500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 95100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "even",
+                        "Offset": 95900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "gave",
+                        "Offset": 98700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 100700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 101900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "reyes",
+                        "Offset": 105500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 112300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 114300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 115900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 118700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "feed",
+                        "Offset": 125500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 129100000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.86779016,
+                "Lexical": "that's right we found this citizen on a street here in moringa do you remember him daniel or evaldo the he lives here in moringa we found him on the street i even gave him five rays is that right daniel feed him",
+                "ITN": "that's right we found this citizen on a street here in moringa do you remember him daniel or evaldo the he lives here in moringa we found him on the street i even gave him five rays is that right daniel feed him",
+                "MaskedITN": "that's right we found this citizen on a street here in moringa do you remember him daniel or evaldo the he lives here in moringa we found him on the street i even gave him five rays is that right daniel feed him",
+                "Display": "that's right we found this citizen on a street here in moringa do you remember him daniel or evaldo the he lives here in moringa we found him on the street i even gave him five rays is that right daniel feed him",
+                "Words": [
+                    {
+                        "Word": "that's",
+                        "Offset": 2700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 5500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "we",
+                        "Offset": 8300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "found",
+                        "Offset": 9500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 12700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "citizen",
+                        "Offset": 15100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 19100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 20300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "street",
+                        "Offset": 20700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "here",
+                        "Offset": 24300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 26300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "moringa",
+                        "Offset": 27100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 33100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 34300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "remember",
+                        "Offset": 35500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 39500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 46700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "or",
+                        "Offset": 52300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "evaldo",
+                        "Offset": 53900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 58700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "he",
+                        "Offset": 59900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "lives",
+                        "Offset": 60700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "here",
+                        "Offset": 65100000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 71500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "moringa",
+                        "Offset": 72300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "we",
+                        "Offset": 76700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "found",
+                        "Offset": 79100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 82300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 83500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 84300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "street",
+                        "Offset": 85500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 95100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "even",
+                        "Offset": 95900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "gave",
+                        "Offset": 98700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 100700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 101900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "rays",
+                        "Offset": 105500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 112300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 114300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 115900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 118700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "feed",
+                        "Offset": 125500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 129100000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8600584,
+                "Lexical": "that's right we found this citizen on a street here in moringa do you remember him daniel or evaldo de silva he lives here in moringa we found him on the street i even gave him five rays is that right daniel feed him",
+                "ITN": "that's right we found this citizen on a street here in moringa do you remember him daniel or evaldo de silva he lives here in moringa we found him on the street i even gave him five rays is that right daniel feed him",
+                "MaskedITN": "that's right we found this citizen on a street here in moringa do you remember him daniel or evaldo de silva he lives here in moringa we found him on the street i even gave him five rays is that right daniel feed him",
+                "Display": "that's right we found this citizen on a street here in moringa do you remember him daniel or evaldo de silva he lives here in moringa we found him on the street i even gave him five rays is that right daniel feed him",
+                "Words": [
+                    {
+                        "Word": "that's",
+                        "Offset": 2700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 5500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "we",
+                        "Offset": 8300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "found",
+                        "Offset": 9500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 12700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "citizen",
+                        "Offset": 15100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 19100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 20300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "street",
+                        "Offset": 20700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "here",
+                        "Offset": 24300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 26300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "moringa",
+                        "Offset": 27100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 33100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 34300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "remember",
+                        "Offset": 35500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 39500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 46700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "or",
+                        "Offset": 52300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "evaldo",
+                        "Offset": 53900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 58700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "silva",
+                        "Offset": 59500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "he",
+                        "Offset": 65100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "lives",
+                        "Offset": 66700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "here",
+                        "Offset": 69500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 71500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "moringa",
+                        "Offset": 72300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "we",
+                        "Offset": 76700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "found",
+                        "Offset": 79100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 82300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 83500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 84300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "street",
+                        "Offset": 85500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 95100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "even",
+                        "Offset": 95900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "gave",
+                        "Offset": 98700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 100700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 101900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "rays",
+                        "Offset": 105500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 112300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 114300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 115900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 118700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "feed",
+                        "Offset": 125500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 129100000,
+                        "Duration": 3200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "490e86465ab9450c83c51a70bafd28b8",
+        "RecognitionStatus": 0,
+        "Offset": 176900000,
+        "Duration": 288000000,
+        "Channel": 0,
+        "DisplayText": "And to stop being stupid, to become a man. I survived like this in order to bring the curses of those who deserve to think their own evil down on him. I don't hope to harm anyone. It's for a meaning to hold in ones hand, not to wish for me, to think badly of me. The right thing to do is to say shame on you, take a document, shame on you and get to work. Where's the five rides I gave you, Daniel? Show the guys. Cinco.",
+        "NBest": [
+            {
+                "Confidence": 0.9246806,
+                "Lexical": "and to stop being stupid to become a man i survived like this in order to bring the curses of those who deserve to think their own evil down on him i don't hope to harm anyone it's for a meaning to hold in ones hand not to wish for me to think badly of me the right thing to do is to say shame on you take a document shame on you and get to work where's the five rides i gave you daniel show the guys cinco",
+                "ITN": "and to stop being stupid to become a man i survived like this in order to bring the curses of those who deserve to think their own evil down on him i don't hope to harm anyone it's for a meaning to hold in ones hand not to wish for me to think badly of me the right thing to do is to say shame on you take a document shame on you and get to work where's the five rides i gave you daniel show the guys cinco",
+                "MaskedITN": "and to stop being stupid to become a man i survived like this in order to bring the curses of those who deserve to think their own evil down on him i don't hope to harm anyone it's for a meaning to hold in ones hand not to wish for me to think badly of me the right thing to do is to say shame on you take a document shame on you and get to work where's the five rides i gave you daniel show the guys cinco",
+                "Display": "And to stop being stupid, to become a man. I survived like this in order to bring the curses of those who deserve to think their own evil down on him. I don't hope to harm anyone. It's for a meaning to hold in ones hand, not to wish for me, to think badly of me. The right thing to do is to say shame on you, take a document, shame on you and get to work. Where's the five rides I gave you, Daniel? Show the guys. Cinco.",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 176900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 178900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "stop",
+                        "Offset": 180100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "being",
+                        "Offset": 183300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "stupid",
+                        "Offset": 186900000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 195700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "become",
+                        "Offset": 197700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 201700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "man",
+                        "Offset": 202100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 210500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "survived",
+                        "Offset": 210900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 218100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 220100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 223700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "order",
+                        "Offset": 224900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 227700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "bring",
+                        "Offset": 229700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 232900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "curses",
+                        "Offset": 234500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 240500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "those",
+                        "Offset": 242100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "who",
+                        "Offset": 245700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "deserve",
+                        "Offset": 247300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 252900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "think",
+                        "Offset": 254100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "their",
+                        "Offset": 257300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "own",
+                        "Offset": 260500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "evil",
+                        "Offset": 262900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "down",
+                        "Offset": 266900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 270500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 272500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 282100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "don't",
+                        "Offset": 282500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "hope",
+                        "Offset": 286100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 288500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "harm",
+                        "Offset": 290100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "anyone",
+                        "Offset": 293700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "it's",
+                        "Offset": 301300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 303700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 305700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "meaning",
+                        "Offset": 306100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 313300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "hold",
+                        "Offset": 316100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 318900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ones",
+                        "Offset": 320900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "hand",
+                        "Offset": 324100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "not",
+                        "Offset": 330500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 332900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "wish",
+                        "Offset": 334900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 338100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 340100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 345300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "think",
+                        "Offset": 347300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "badly",
+                        "Offset": 350900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 356100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 357700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 363300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 364900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "thing",
+                        "Offset": 368100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 370500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 371700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 374500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 375700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "say",
+                        "Offset": 376900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "shame",
+                        "Offset": 380500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 385700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 387300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "take",
+                        "Offset": 392100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 396100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "document",
+                        "Offset": 396500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "shame",
+                        "Offset": 403300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 408500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 410500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 415300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "get",
+                        "Offset": 417300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 419700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "work",
+                        "Offset": 421300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "where's",
+                        "Offset": 432500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 435300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 436500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "rides",
+                        "Offset": 439700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 443700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gave",
+                        "Offset": 444100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 446500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 447700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "show",
+                        "Offset": 451700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 453700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "guys",
+                        "Offset": 454900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "cinco",
+                        "Offset": 460500000,
+                        "Duration": 4400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.92453945,
+                "Lexical": "and to stop being stupid to become a man i survived like this in order to bring the curses of those who deserve to think their own evil down on him i don't hope to harm anyone it's for a meaning to hold in ones hand not to wish for me to think badly of me the right thing to do is to say shame on you take a document shame on you and get to work where's the five ribs i gave you daniel show the guys cinco",
+                "ITN": "and to stop being stupid to become a man i survived like this in order to bring the curses of those who deserve to think their own evil down on him i don't hope to harm anyone it's for a meaning to hold in ones hand not to wish for me to think badly of me the right thing to do is to say shame on you take a document shame on you and get to work where's the five ribs i gave you daniel show the guys cinco",
+                "MaskedITN": "and to stop being stupid to become a man i survived like this in order to bring the curses of those who deserve to think their own evil down on him i don't hope to harm anyone it's for a meaning to hold in ones hand not to wish for me to think badly of me the right thing to do is to say shame on you take a document shame on you and get to work where's the five ribs i gave you daniel show the guys cinco",
+                "Display": "and to stop being stupid to become a man i survived like this in order to bring the curses of those who deserve to think their own evil down on him i don't hope to harm anyone it's for a meaning to hold in ones hand not to wish for me to think badly of me the right thing to do is to say shame on you take a document shame on you and get to work where's the five ribs i gave you daniel show the guys cinco",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 176900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 178900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "stop",
+                        "Offset": 180100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "being",
+                        "Offset": 183300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "stupid",
+                        "Offset": 186900000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 195700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "become",
+                        "Offset": 197700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 201700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "man",
+                        "Offset": 202100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 210500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "survived",
+                        "Offset": 210900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 218100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 220100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 223700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "order",
+                        "Offset": 224900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 227700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "bring",
+                        "Offset": 229700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 232900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "curses",
+                        "Offset": 234500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 240500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "those",
+                        "Offset": 242100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "who",
+                        "Offset": 245700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "deserve",
+                        "Offset": 247300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 252900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "think",
+                        "Offset": 254100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "their",
+                        "Offset": 257300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "own",
+                        "Offset": 260500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "evil",
+                        "Offset": 262900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "down",
+                        "Offset": 266900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 270500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 272500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 282100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "don't",
+                        "Offset": 282500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "hope",
+                        "Offset": 286100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 288500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "harm",
+                        "Offset": 290100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "anyone",
+                        "Offset": 293700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "it's",
+                        "Offset": 301300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 303700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 305700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "meaning",
+                        "Offset": 306100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 313300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "hold",
+                        "Offset": 316100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 318900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ones",
+                        "Offset": 320900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "hand",
+                        "Offset": 324100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "not",
+                        "Offset": 330500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 332900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "wish",
+                        "Offset": 334900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 338100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 340100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 345300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "think",
+                        "Offset": 347300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "badly",
+                        "Offset": 350900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 356100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 357700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 363300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 364900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "thing",
+                        "Offset": 368100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 370500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 371700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 374500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 375700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "say",
+                        "Offset": 376900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "shame",
+                        "Offset": 380500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 385700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 387300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "take",
+                        "Offset": 392100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 396100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "document",
+                        "Offset": 396500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "shame",
+                        "Offset": 403300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 408500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 410500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 415300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "get",
+                        "Offset": 417300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 419700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "work",
+                        "Offset": 421300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "where's",
+                        "Offset": 432500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 435300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 436500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "ribs",
+                        "Offset": 439700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 443700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gave",
+                        "Offset": 444100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 446500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 447700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "show",
+                        "Offset": 451700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 453700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "guys",
+                        "Offset": 454900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "cinco",
+                        "Offset": 460500000,
+                        "Duration": 4400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9245509,
+                "Lexical": "and to stop being stupid to become a man i survived like this in order to bring the curses of those who deserve to think their own evil down on him i don't hope to harm anyone it's for a meaning to hold in ones hand not to wish for me to think badly of me the right thing to do is to say shame on you take a document shame on you and get to work where's the five riots i gave you daniel show the guys cinco",
+                "ITN": "and to stop being stupid to become a man i survived like this in order to bring the curses of those who deserve to think their own evil down on him i don't hope to harm anyone it's for a meaning to hold in ones hand not to wish for me to think badly of me the right thing to do is to say shame on you take a document shame on you and get to work where's the five riots i gave you daniel show the guys cinco",
+                "MaskedITN": "and to stop being stupid to become a man i survived like this in order to bring the curses of those who deserve to think their own evil down on him i don't hope to harm anyone it's for a meaning to hold in ones hand not to wish for me to think badly of me the right thing to do is to say shame on you take a document shame on you and get to work where's the five riots i gave you daniel show the guys cinco",
+                "Display": "and to stop being stupid to become a man i survived like this in order to bring the curses of those who deserve to think their own evil down on him i don't hope to harm anyone it's for a meaning to hold in ones hand not to wish for me to think badly of me the right thing to do is to say shame on you take a document shame on you and get to work where's the five riots i gave you daniel show the guys cinco",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 176900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 178900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "stop",
+                        "Offset": 180100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "being",
+                        "Offset": 183300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "stupid",
+                        "Offset": 186900000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 195700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "become",
+                        "Offset": 197700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 201700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "man",
+                        "Offset": 202100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 210500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "survived",
+                        "Offset": 210900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 218100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 220100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 223700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "order",
+                        "Offset": 224900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 227700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "bring",
+                        "Offset": 229700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 232900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "curses",
+                        "Offset": 234500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 240500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "those",
+                        "Offset": 242100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "who",
+                        "Offset": 245700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "deserve",
+                        "Offset": 247300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 252900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "think",
+                        "Offset": 254100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "their",
+                        "Offset": 257300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "own",
+                        "Offset": 260500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "evil",
+                        "Offset": 262900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "down",
+                        "Offset": 266900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 270500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 272500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 282100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "don't",
+                        "Offset": 282500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "hope",
+                        "Offset": 286100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 288500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "harm",
+                        "Offset": 290100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "anyone",
+                        "Offset": 293700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "it's",
+                        "Offset": 301300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 303700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 305700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "meaning",
+                        "Offset": 306100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 313300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "hold",
+                        "Offset": 316100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 318900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ones",
+                        "Offset": 320900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "hand",
+                        "Offset": 324100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "not",
+                        "Offset": 330500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 332900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "wish",
+                        "Offset": 334900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 338100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 340100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 345300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "think",
+                        "Offset": 347300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "badly",
+                        "Offset": 350900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 356100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 357700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 363300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 364900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "thing",
+                        "Offset": 368100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 370500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 371700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 374500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 375700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "say",
+                        "Offset": 376900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "shame",
+                        "Offset": 380500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 385700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 387300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "take",
+                        "Offset": 392100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 396100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "document",
+                        "Offset": 396500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "shame",
+                        "Offset": 403300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 408500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 410500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 415300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "get",
+                        "Offset": 417300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 419700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "work",
+                        "Offset": 421300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "where's",
+                        "Offset": 432500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 435300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 436500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "riots",
+                        "Offset": 439700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 443700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gave",
+                        "Offset": 444100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 446500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 447700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "show",
+                        "Offset": 451700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 453700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "guys",
+                        "Offset": 454900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "cinco",
+                        "Offset": 460500000,
+                        "Duration": 4400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9096564,
+                "Lexical": "and to stop being stupid to become a man i survived like this in order to bring the curses of those who deserve to think their own evil down on him i don't hope to harm anyone it's for a meaning to hold in one 's hand not to wish for me to think badly of me the right thing to do is to say shame on you take a document shame on you and get to work where's the five rides i gave you daniel show the guys cinco",
+                "ITN": "and to stop being stupid to become a man i survived like this in order to bring the curses of those who deserve to think their own evil down on him i don't hope to harm anyone it's for a meaning to hold in one 's hand not to wish for me to think badly of me the right thing to do is to say shame on you take a document shame on you and get to work where's the five rides i gave you daniel show the guys cinco",
+                "MaskedITN": "and to stop being stupid to become a man i survived like this in order to bring the curses of those who deserve to think their own evil down on him i don't hope to harm anyone it's for a meaning to hold in one 's hand not to wish for me to think badly of me the right thing to do is to say shame on you take a document shame on you and get to work where's the five rides i gave you daniel show the guys cinco",
+                "Display": "and to stop being stupid to become a man i survived like this in order to bring the curses of those who deserve to think their own evil down on him i don't hope to harm anyone it's for a meaning to hold in one 's hand not to wish for me to think badly of me the right thing to do is to say shame on you take a document shame on you and get to work where's the five rides i gave you daniel show the guys cinco",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 176900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 178900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "stop",
+                        "Offset": 180100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "being",
+                        "Offset": 183300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "stupid",
+                        "Offset": 186900000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 195700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "become",
+                        "Offset": 197700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 201700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "man",
+                        "Offset": 202100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 210500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "survived",
+                        "Offset": 210900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 218100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 220100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 223700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "order",
+                        "Offset": 224900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 227700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "bring",
+                        "Offset": 229700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 232900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "curses",
+                        "Offset": 234500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 240500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "those",
+                        "Offset": 242100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "who",
+                        "Offset": 245700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "deserve",
+                        "Offset": 247300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 252900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "think",
+                        "Offset": 254100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "their",
+                        "Offset": 257300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "own",
+                        "Offset": 260500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "evil",
+                        "Offset": 262900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "down",
+                        "Offset": 266900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 270500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 272500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 282100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "don't",
+                        "Offset": 282500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "hope",
+                        "Offset": 286100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 288500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "harm",
+                        "Offset": 290100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "anyone",
+                        "Offset": 293700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "it's",
+                        "Offset": 301300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 303700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 305700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "meaning",
+                        "Offset": 306100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 313300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "hold",
+                        "Offset": 316100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 318900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 320900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 323700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "hand",
+                        "Offset": 324100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "not",
+                        "Offset": 330500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 332900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "wish",
+                        "Offset": 334900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 338100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 340100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 345300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "think",
+                        "Offset": 347300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "badly",
+                        "Offset": 350900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 356100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 357700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 363300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 364900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "thing",
+                        "Offset": 368100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 370500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 371700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 374500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 375700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "say",
+                        "Offset": 376900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "shame",
+                        "Offset": 380500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 385700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 387300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "take",
+                        "Offset": 392100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 396100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "document",
+                        "Offset": 396500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "shame",
+                        "Offset": 403300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 408500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 410500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 415300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "get",
+                        "Offset": 417300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 419700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "work",
+                        "Offset": 421300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "where's",
+                        "Offset": 432500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 435300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 436500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "rides",
+                        "Offset": 439700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 443700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gave",
+                        "Offset": 444100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 446500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 447700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "show",
+                        "Offset": 451700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 453700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "guys",
+                        "Offset": 454900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "cinco",
+                        "Offset": 460500000,
+                        "Duration": 4400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.91894525,
+                "Lexical": "and to stop being stupid to become a man i survive like this in order to bring the curses of those who deserve to think their own evil down on him i don't hope to harm anyone it's for a meaning to hold in ones hand not to wish for me to think badly of me the right thing to do is to say shame on you take a document shame on you and get to work where's the five rides i gave you daniel show the guys cinco",
+                "ITN": "and to stop being stupid to become a man i survive like this in order to bring the curses of those who deserve to think their own evil down on him i don't hope to harm anyone it's for a meaning to hold in ones hand not to wish for me to think badly of me the right thing to do is to say shame on you take a document shame on you and get to work where's the five rides i gave you daniel show the guys cinco",
+                "MaskedITN": "and to stop being stupid to become a man i survive like this in order to bring the curses of those who deserve to think their own evil down on him i don't hope to harm anyone it's for a meaning to hold in ones hand not to wish for me to think badly of me the right thing to do is to say shame on you take a document shame on you and get to work where's the five rides i gave you daniel show the guys cinco",
+                "Display": "and to stop being stupid to become a man i survive like this in order to bring the curses of those who deserve to think their own evil down on him i don't hope to harm anyone it's for a meaning to hold in ones hand not to wish for me to think badly of me the right thing to do is to say shame on you take a document shame on you and get to work where's the five rides i gave you daniel show the guys cinco",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 176900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 178900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "stop",
+                        "Offset": 180100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "being",
+                        "Offset": 183300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "stupid",
+                        "Offset": 186900000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 195700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "become",
+                        "Offset": 197700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 201700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "man",
+                        "Offset": 202100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 210500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "survive",
+                        "Offset": 210900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 217700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 220100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 223700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "order",
+                        "Offset": 224900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 227700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "bring",
+                        "Offset": 229700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 232900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "curses",
+                        "Offset": 234500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 240500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "those",
+                        "Offset": 242100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "who",
+                        "Offset": 245700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "deserve",
+                        "Offset": 247300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 252900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "think",
+                        "Offset": 254100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "their",
+                        "Offset": 257300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "own",
+                        "Offset": 260500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "evil",
+                        "Offset": 262900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "down",
+                        "Offset": 266900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 270500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "him",
+                        "Offset": 272500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 282100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "don't",
+                        "Offset": 282500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "hope",
+                        "Offset": 286100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 288500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "harm",
+                        "Offset": 290100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "anyone",
+                        "Offset": 293700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "it's",
+                        "Offset": 301300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 303700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 305700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "meaning",
+                        "Offset": 306100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 313300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "hold",
+                        "Offset": 316100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 318900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ones",
+                        "Offset": 320900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "hand",
+                        "Offset": 324100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "not",
+                        "Offset": 330500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 332900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "wish",
+                        "Offset": 334900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "for",
+                        "Offset": 338100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 340100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 345300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "think",
+                        "Offset": 347300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "badly",
+                        "Offset": 350900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 356100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 357700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 363300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 364900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "thing",
+                        "Offset": 368100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 370500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 371700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 374500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 375700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "say",
+                        "Offset": 376900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "shame",
+                        "Offset": 380500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 385700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 387300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "take",
+                        "Offset": 392100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 396100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "document",
+                        "Offset": 396500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "shame",
+                        "Offset": 403300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 408500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 410500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 415300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "get",
+                        "Offset": 417300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 419700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "work",
+                        "Offset": 421300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "where's",
+                        "Offset": 432500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 435300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 436500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "rides",
+                        "Offset": 439700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 443700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gave",
+                        "Offset": 444100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 446500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 447700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "show",
+                        "Offset": 451700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 453700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "guys",
+                        "Offset": 454900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "cinco",
+                        "Offset": 460500000,
+                        "Duration": 4400000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "9e55c6fa96ac4fd898dd22a2cb427395",
+        "RecognitionStatus": 0,
+        "Offset": 479800000,
+        "Duration": 116800000,
+        "Channel": 0,
+        "DisplayText": "What are you going to do with those five reas? Buy some food? Food. Yeah, right. Daniel, you're the Blind Rooster. Your nickname is the Blind Rooster. Do you remember a report I did on you at the police station two years ago?",
+        "NBest": [
+            {
+                "Confidence": 0.8983689,
+                "Lexical": "what are you going to do with those five reas buy some food food yeah right daniel you're the blind rooster your nickname is the blind rooster do you remember a report i did on you at the police station two years ago",
+                "ITN": "what are you going to do with those five reas buy some food food yeah right daniel you're the blind rooster your nickname is the blind rooster do you remember a report i did on you at the police station two years ago",
+                "MaskedITN": "what are you going to do with those five reas buy some food food yeah right daniel you're the blind rooster your nickname is the blind rooster do you remember a report i did on you at the police station two years ago",
+                "Display": "What are you going to do with those five reas? Buy some food? Food. Yeah, right. Daniel, you're the Blind Rooster. Your nickname is the Blind Rooster. Do you remember a report I did on you at the police station two years ago?",
+                "Words": [
+                    {
+                        "Word": "what",
+                        "Offset": 479800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "are",
+                        "Offset": 481400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 482600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "going",
+                        "Offset": 483800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 485800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 486600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 487800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "those",
+                        "Offset": 489400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 492200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "reas",
+                        "Offset": 495800000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "buy",
+                        "Offset": 505000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "some",
+                        "Offset": 507400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "food",
+                        "Offset": 509400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "food",
+                        "Offset": 517800000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 524600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 527400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 532600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "you're",
+                        "Offset": 535400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 537800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "blind",
+                        "Offset": 539000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "rooster",
+                        "Offset": 542200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "your",
+                        "Offset": 546200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "nickname",
+                        "Offset": 547800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 551800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 553000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "blind",
+                        "Offset": 554200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "rooster",
+                        "Offset": 557800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 565000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 566200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "remember",
+                        "Offset": 567400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 571400000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "report",
+                        "Offset": 571800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 577000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "did",
+                        "Offset": 577400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 579400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 580600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "at",
+                        "Offset": 582200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 583000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "police",
+                        "Offset": 584200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "station",
+                        "Offset": 586600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "two",
+                        "Offset": 590600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "years",
+                        "Offset": 592600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "ago",
+                        "Offset": 595000000,
+                        "Duration": 1600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8958869,
+                "Lexical": "what are you gonna do with those five reas buy some food food yeah right daniel you're the blind rooster your nickname is the blind rooster do you remember a report i did on you at the police station two years ago",
+                "ITN": "what are you gonna do with those five reas buy some food food yeah right daniel you're the blind rooster your nickname is the blind rooster do you remember a report i did on you at the police station two years ago",
+                "MaskedITN": "what are you gonna do with those five reas buy some food food yeah right daniel you're the blind rooster your nickname is the blind rooster do you remember a report i did on you at the police station two years ago",
+                "Display": "what are you gonna do with those five reas buy some food food yeah right daniel you're the blind rooster your nickname is the blind rooster do you remember a report i did on you at the police station two years ago",
+                "Words": [
+                    {
+                        "Word": "what",
+                        "Offset": 479800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "are",
+                        "Offset": 481400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 482600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "gonna",
+                        "Offset": 483800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 486200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 487800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "those",
+                        "Offset": 489400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 492200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "reas",
+                        "Offset": 495800000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "buy",
+                        "Offset": 505000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "some",
+                        "Offset": 507400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "food",
+                        "Offset": 509400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "food",
+                        "Offset": 517800000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 524600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 527400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 532600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "you're",
+                        "Offset": 535400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 537800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "blind",
+                        "Offset": 539000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "rooster",
+                        "Offset": 542200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "your",
+                        "Offset": 546200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "nickname",
+                        "Offset": 547800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 551800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 553000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "blind",
+                        "Offset": 554200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "rooster",
+                        "Offset": 557800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 565000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 566200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "remember",
+                        "Offset": 567400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 571400000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "report",
+                        "Offset": 571800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 577000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "did",
+                        "Offset": 577400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 579400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 580600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "at",
+                        "Offset": 582200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 583000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "police",
+                        "Offset": 584200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "station",
+                        "Offset": 586600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "two",
+                        "Offset": 590600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "years",
+                        "Offset": 592600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "ago",
+                        "Offset": 595000000,
+                        "Duration": 1600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8938522,
+                "Lexical": "what are you going to do with those five rays buy some food food yeah right daniel you're the blind rooster your nickname is the blind rooster do you remember a report i did on you at the police station two years ago",
+                "ITN": "what are you going to do with those five rays buy some food food yeah right daniel you're the blind rooster your nickname is the blind rooster do you remember a report i did on you at the police station two years ago",
+                "MaskedITN": "what are you going to do with those five rays buy some food food yeah right daniel you're the blind rooster your nickname is the blind rooster do you remember a report i did on you at the police station two years ago",
+                "Display": "what are you going to do with those five rays buy some food food yeah right daniel you're the blind rooster your nickname is the blind rooster do you remember a report i did on you at the police station two years ago",
+                "Words": [
+                    {
+                        "Word": "what",
+                        "Offset": 479800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "are",
+                        "Offset": 481400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 482600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "going",
+                        "Offset": 483800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 485800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 486600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 487800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "those",
+                        "Offset": 489400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 492200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "rays",
+                        "Offset": 495800000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "buy",
+                        "Offset": 505000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "some",
+                        "Offset": 507400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "food",
+                        "Offset": 509400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "food",
+                        "Offset": 517800000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 524600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 527400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 532600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "you're",
+                        "Offset": 535400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 537800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "blind",
+                        "Offset": 539000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "rooster",
+                        "Offset": 542200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "your",
+                        "Offset": 546200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "nickname",
+                        "Offset": 547800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 551800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 553000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "blind",
+                        "Offset": 554200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "rooster",
+                        "Offset": 557800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 565000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 566200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "remember",
+                        "Offset": 567400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 571400000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "report",
+                        "Offset": 571800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 577000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "did",
+                        "Offset": 577400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 579400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 580600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "at",
+                        "Offset": 582200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 583000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "police",
+                        "Offset": 584200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "station",
+                        "Offset": 586600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "two",
+                        "Offset": 590600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "years",
+                        "Offset": 592600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "ago",
+                        "Offset": 595000000,
+                        "Duration": 1600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8920452,
+                "Lexical": "what are you going to do with those five ries buy some food food yeah right daniel you're the blind rooster your nickname is the blind rooster do you remember a report i did on you at the police station two years ago",
+                "ITN": "what are you going to do with those five ries buy some food food yeah right daniel you're the blind rooster your nickname is the blind rooster do you remember a report i did on you at the police station two years ago",
+                "MaskedITN": "what are you going to do with those five ries buy some food food yeah right daniel you're the blind rooster your nickname is the blind rooster do you remember a report i did on you at the police station two years ago",
+                "Display": "what are you going to do with those five ries buy some food food yeah right daniel you're the blind rooster your nickname is the blind rooster do you remember a report i did on you at the police station two years ago",
+                "Words": [
+                    {
+                        "Word": "what",
+                        "Offset": 479800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "are",
+                        "Offset": 481400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 482600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "going",
+                        "Offset": 483800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 485800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 486600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 487800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "those",
+                        "Offset": 489400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 492200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "ries",
+                        "Offset": 495800000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "buy",
+                        "Offset": 505000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "some",
+                        "Offset": 507400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "food",
+                        "Offset": 509400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "food",
+                        "Offset": 517800000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 524600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 527400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 532600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "you're",
+                        "Offset": 535400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 537800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "blind",
+                        "Offset": 539000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "rooster",
+                        "Offset": 542200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "your",
+                        "Offset": 546200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "nickname",
+                        "Offset": 547800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 551800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 553000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "blind",
+                        "Offset": 554200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "rooster",
+                        "Offset": 557800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 565000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 566200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "remember",
+                        "Offset": 567400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 571400000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "report",
+                        "Offset": 571800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 577000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "did",
+                        "Offset": 577400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 579400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 580600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "at",
+                        "Offset": 582200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 583000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "police",
+                        "Offset": 584200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "station",
+                        "Offset": 586600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "two",
+                        "Offset": 590600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "years",
+                        "Offset": 592600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "ago",
+                        "Offset": 595000000,
+                        "Duration": 1600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8911663,
+                "Lexical": "what are you gonna do with those five rays buy some food food yeah right daniel you're the blind rooster your nickname is the blind rooster do you remember a report i did on you at the police station two years ago",
+                "ITN": "what are you gonna do with those five rays buy some food food yeah right daniel you're the blind rooster your nickname is the blind rooster do you remember a report i did on you at the police station two years ago",
+                "MaskedITN": "what are you gonna do with those five rays buy some food food yeah right daniel you're the blind rooster your nickname is the blind rooster do you remember a report i did on you at the police station two years ago",
+                "Display": "what are you gonna do with those five rays buy some food food yeah right daniel you're the blind rooster your nickname is the blind rooster do you remember a report i did on you at the police station two years ago",
+                "Words": [
+                    {
+                        "Word": "what",
+                        "Offset": 479800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "are",
+                        "Offset": 481400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 482600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "gonna",
+                        "Offset": 483800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 486200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "with",
+                        "Offset": 487800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "those",
+                        "Offset": 489400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "five",
+                        "Offset": 492200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "rays",
+                        "Offset": 495800000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "buy",
+                        "Offset": 505000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "some",
+                        "Offset": 507400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "food",
+                        "Offset": 509400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "food",
+                        "Offset": 517800000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "yeah",
+                        "Offset": 524600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "right",
+                        "Offset": 527400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "daniel",
+                        "Offset": 532600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "you're",
+                        "Offset": 535400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 537800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "blind",
+                        "Offset": 539000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "rooster",
+                        "Offset": 542200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "your",
+                        "Offset": 546200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "nickname",
+                        "Offset": 547800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 551800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 553000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "blind",
+                        "Offset": 554200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "rooster",
+                        "Offset": 557800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 565000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 566200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "remember",
+                        "Offset": 567400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 571400000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "report",
+                        "Offset": 571800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 577000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "did",
+                        "Offset": 577400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 579400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 580600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "at",
+                        "Offset": 582200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 583000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "police",
+                        "Offset": 584200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "station",
+                        "Offset": 586600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "two",
+                        "Offset": 590600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "years",
+                        "Offset": 592600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "ago",
+                        "Offset": 595000000,
+                        "Duration": 1600000
+                    }
+                ]
+            }
+        ]
+    }
+]
